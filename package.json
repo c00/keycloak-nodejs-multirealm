@@ -57,7 +57,7 @@
     "node-cache": "^5.1.2"
   },
   "peerDependencies": {
-    "keycloak-connect": "github:c00/keycloak-nodejs-multirealm"
+    "keycloak-connect": "github:c00/keycloak-nodejs-connect"
   },
   "jest": {
     "testEnvironment": "node"
